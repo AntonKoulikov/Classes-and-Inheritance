@@ -22,3 +22,27 @@ C:\Users\Anton\Downloads\Classes_and_Inheritance\Classes and Inheritance\Inherit
 C:\Users\Anton\Downloads\Classes_and_Inheritance\Classes and Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
 C:\Users\Anton\Downloads\Classes_and_Inheritance\Classes and Inheritance\Inheritance\bin\Debug\Inheritance.exe
 C:\Users\Anton\Downloads\Classes_and_Inheritance\Classes and Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+\\Mac\Home\Desktop\Inheritance 3\bin\Debug\Inheritance.exe.config
+\\Mac\Home\Desktop\Inheritance 3\bin\Debug\Inheritance.exe
+\\Mac\Home\Desktop\Inheritance 3\bin\Debug\Inheritance.pdb
+\\Mac\Home\Desktop\Inheritance 3\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Inheritance 3\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Inheritance 3\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Inheritance 3\obj\Debug\Inheritance.exe
+\\Mac\Home\Desktop\Inheritance 3\obj\Debug\Inheritance.pdb
+\\Mac\Home\Desktop\Inheritance_done_finalllllllllll)\Inheritance 3\bin\Debug\Inheritance.exe.config
+\\Mac\Home\Desktop\Inheritance_done_finalllllllllll)\Inheritance 3\bin\Debug\Inheritance.exe
+\\Mac\Home\Desktop\Inheritance_done_finalllllllllll)\Inheritance 3\bin\Debug\Inheritance.pdb
+\\Mac\Home\Desktop\Inheritance_done_finalllllllllll)\Inheritance 3\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Inheritance_done_finalllllllllll)\Inheritance 3\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Inheritance_done_finalllllllllll)\Inheritance 3\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Inheritance_done_finalllllllllll)\Inheritance 3\obj\Debug\Inheritance.exe
+\\Mac\Home\Desktop\Inheritance_done_finalllllllllll)\Inheritance 3\obj\Debug\Inheritance.pdb
+C:\Users\Anton\Downloads\Clases_and_Inheritance\Inheritance 3\bin\Debug\Inheritance.exe.config
+C:\Users\Anton\Downloads\Clases_and_Inheritance\Inheritance 3\bin\Debug\Inheritance.exe
+C:\Users\Anton\Downloads\Clases_and_Inheritance\Inheritance 3\bin\Debug\Inheritance.pdb
+C:\Users\Anton\Downloads\Clases_and_Inheritance\Inheritance 3\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Anton\Downloads\Clases_and_Inheritance\Inheritance 3\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\Downloads\Clases_and_Inheritance\Inheritance 3\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Downloads\Clases_and_Inheritance\Inheritance 3\obj\Debug\Inheritance.exe
+C:\Users\Anton\Downloads\Clases_and_Inheritance\Inheritance 3\obj\Debug\Inheritance.pdb

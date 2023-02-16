@@ -23,3 +23,4 @@
 118963476;Russell Hobbs;146;1150;grey;2360;4;73;32;
 333607621;Vax;113;440;silver;123.99;1.6;W;
 274807482;Black & Decker;30;1800;black;375;Commercial;24;
+Appliances saved to list.
